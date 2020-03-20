@@ -1,0 +1,37 @@
+{
+  "UserName": "admin1234",
+  "Password": "admin1234",
+  "FirstName": "Temp",
+  "LastName": "Temp",
+  "Email": "noreply@vmware.com",
+  "LocationGroup": "gandhi",
+  "LocationGroupId": "gandhi",
+  "OrganizationGroupUuid": "Text value",
+  "TimeZone": "GMT",
+  "TimeZoneIdentifier": "America/New_York",
+  "Locale": "en-us",
+  "InitialLandingPage": "Devices > Dashboard",
+  "LastLoginTimeStamp": "0001-01-01T00:00:00",
+  "Roles": [
+    {
+      "Id": 10001,
+      "Uuid": "c234080c-62bf-11ea-bc55-0242ac130003",
+      "Name": "testadminrole",
+      "Description": "testadminrole",
+      "LocationGroup": "gandhi",
+      "LocationGroupId": "gandhi",
+      "OrganizationGroupUuid": "Text value",
+      "IsActive": true,
+      "UserLinkId": 10001
+    }
+  ],
+  "IsActiveDirectoryUser": false,
+  "RequiresPasswordChange": false,
+  "MessageType": 0,
+  "MessageTemplateId": 15,
+  "ExternalId": "d27e88fe-62bf-11ea-bc55-0242ac130003",
+  "Id": {
+    "Value": 0
+  },
+  "Uuid": "e75da21e-62bf-11ea-bc55-0242ac130003"
+}
